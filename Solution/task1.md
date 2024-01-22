@@ -11,9 +11,9 @@
 7. додайте до репозиторію (тека Solution) обидва скріншоти
 
 * Фото "task1.1"   
-![task1.1](image.png)
+![](task1.1.png)
 * Фото "task1.2"   
-![task1.2](image.png)
+![](task1.2.png)
 
 [Markdown-Cheatsheet](https://github.com/sandino/Markdown-Cheatsheet)
 ---
